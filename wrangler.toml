@@ -1,0 +1,8 @@
+name = "svelte-todo"
+compatibility_date = "2023-07-17"
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "todo"
+database_id = "7535012b-8efe-47d6-bfdd-dac8c5bf12eb"
